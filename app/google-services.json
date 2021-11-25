@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "884414670584",
+    "project_id": "vaccinelab-fd28b",
+    "storage_bucket": "vaccinelab-fd28b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884414670584:android:3c97229889aa961f6f7d0d",
+        "android_client_info": {
+          "package_name": "com.example.vaccinelab.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884414670584-8euvi3gqj950em7sicqopd7acu780rmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vaccinelab.login",
+            "certificate_hash": "c009d4bd3cc14dca54cf36a3266cfdd1d3331822"
+          }
+        },
+        {
+          "client_id": "884414670584-6lvqkopf44fdc5mnv9a3mo5u07rcihm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFq8jT2AW3d7uWVlpXtvJeXIZO9i0BgBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884414670584-6lvqkopf44fdc5mnv9a3mo5u07rcihm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
